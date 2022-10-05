@@ -1,5 +1,5 @@
-# Dmytro
-# 💫 About Me:
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmytro</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 🔭 I’m currently working on JS developer<br>🤝 I’m looking for help with continue creating web pages with interesting content<br>🌱 I’m currently learning Game dev on UE5<br>⚡ Fun fact: I never worked in office
 
 
